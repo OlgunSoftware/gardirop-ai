@@ -1,4 +1,4 @@
-# 👗 Combiner AI - Akıllı Kombin Uygulaması
+# 👗 Gardirop AI - Akıllı Kombin Uygulaması
 <p align="center">
   <img src="assets/logo.png" alt="Combiner AI logo" width="140" />
 </p>
